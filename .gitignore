@@ -19,3 +19,7 @@ downloaded.json
 cookies.txt
 browser_data/
 *.log
+
+# Others
+all_posts.json
+discovered.json
